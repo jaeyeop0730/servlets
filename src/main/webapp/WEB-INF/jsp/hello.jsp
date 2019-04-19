@@ -1,6 +1,6 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <body>
-	<p>내 이름은 ${name}</p>
+	<h1>내 이름은 ${name } 입니다.</h1>
 </body>
 </html>
